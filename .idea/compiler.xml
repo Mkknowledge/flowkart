@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="flowkart-inventory" />
+        <module name="flowkart-gateway" />
+        <module name="flowkart-return" />
+        <module name="flowkart-common" />
+        <module name="flowkart-order" />
+        <module name="flowkart-notify" />
+        <module name="flowkart-payment" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

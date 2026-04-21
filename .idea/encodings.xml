@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/flowkart-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowkart-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowkart-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowkart-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowkart-inventory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowkart-inventory/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowkart-notify/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowkart-notify/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowkart-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowkart-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowkart-payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowkart-payment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowkart-return/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flowkart-return/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
