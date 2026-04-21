@@ -58,7 +58,7 @@ payment, fulfillment, and returns.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/flowkart.git
+git clone https://github.com/Mkknowledge/flowkart.git
 cd flowkart
 
 # 2. Copy and fill in Camunda credentials
